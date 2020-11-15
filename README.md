@@ -1,0 +1,2 @@
+# Gettingstartedwithgit
+exercise for coursera
